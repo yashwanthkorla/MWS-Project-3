@@ -11,6 +11,8 @@ python -m SimpleHTTPServer - for python 2.7
 After running the server , in your browser type **localhost:8000** and the web page will be served to you.
 
 # Notes:
-- In the casa restaurant we dont have the photograph key so added a no image jpg file to the restaurants which doesnt have images.
-- Review Form is added in the restaurants.html file.
+- In the case of restaurant we dont have the photograph key so added a no image jpg file to the restaurants which doesnt have images.
+- Review Form and favorite option are added in the restaurants.html file.
 - the Main folder is Final.
+- Added web worker for handling indexeddb operations.
+- Used workbox library for sw.
