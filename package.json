@@ -1,0 +1,25 @@
+{
+  "name": "msw_project_stage_2",
+  "version": "1.0.0",
+  "description": "Mobile Web Specalist Project Stage 2",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yashwanthkorla",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "imagemin-pngquant": "^6.0.0",
+    "workbox-build": "^3.6.3"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-terser": "^1.1.5",
+    "gulp-webp": "^3.0.0"
+  }
+}
